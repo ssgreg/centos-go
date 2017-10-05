@@ -1,10 +1,10 @@
 FROM centos:7
 MAINTAINER me@ssgreg.com
 
-ENV VERSION 1.9
+ENV VERSION 1.9.1
 ENV FILE go$VERSION.linux-amd64.tar.gz
 ENV URL https://storage.googleapis.com/golang/$FILE
-ENV SHA256 d70eadefce8e160638a9a6db97f7192d8463069ab33138893ad3bf31b0650a79
+ENV SHA256 07d81c6b6b4c2dcf1b5ef7c27aaebd3691cdb40548500941f92b221147c5d9c7
 
 ENV GOPATH /go
 ENV PATH $GOPATH/bin:/usr/local/go/bin:$PATH
