@@ -9,7 +9,7 @@ CentOS docker image with Go
 Pull the images:
 
 ```
-docker pull ssgreg/centos-go:latest
+# docker pull ssgreg/centos-go:latest
 ```
 
 Run a container from the image:
