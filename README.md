@@ -4,6 +4,14 @@
 
 CentOS docker image with Go
 
+## Supported tags
+
+* `latest`
+* `7.4.1708-1.9.2`
+* `7.4.1708-1.9.1`
+* `7.4.1708-1.9`
+* `7.4.1708-1.8.5`
+
 ## Installation & Usage
 
 Pull the images:
@@ -32,5 +40,7 @@ CentOS 7.4.1708 + Go 1.9.2
 
 ## Previous versions
 
+* CentOS 7.4.1708 + Go 1.9.2 [Link to automated build](https://hub.docker.com/r/ssgreg/centos-go/builds/bwgs8xxehfb2z2a3dtioakq/)
 * CentOS 7.4.1708 + Go 1.9.1 [Link to automated build](https://hub.docker.com/r/ssgreg/centos-go/builds/bmrfkmrxnrfwpyd5ercazxg/)
 * CentOS 7.4.1708 + Go 1.9 [Link to automated build](https://hub.docker.com/r/ssgreg/centos-go/builds/bhg3y8cckzhxvuqovuljlpb/)
+* CentOS 7.4.1708 + Go 1.8.5 [Link to automated build](https://hub.docker.com/r/ssgreg/centos-go/builds/btmhrfszu5osrba8hz4y3tf/)
