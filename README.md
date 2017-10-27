@@ -6,7 +6,7 @@ CentOS docker image with Go
 
 ## Supported tags
 
-* `latest`
+* `latest`, `latest-cgo`
 * `7.4.1708-1.9.2`, `7.4.1708-1.9.2-cgo`
 * `7.4.1708-1.9.1`
 * `7.4.1708-1.9`
